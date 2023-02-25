@@ -4,3 +4,5 @@ config.json
 *.log
 testing.ipynb
 *.db
+*.png
+*.jpg

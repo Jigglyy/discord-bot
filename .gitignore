@@ -1,3 +1,5 @@
-.requirements.in
-.testing.ipynb
-.config.json
+*.in
+*.ipynb
+config.json
+*.log
+testing.ipynb

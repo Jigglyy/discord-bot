@@ -1,0 +1,7 @@
+{
+  "token": "your token here",
+  "prefix": "$",
+  "description": "A Python Discord bot aimed at effectively destroying specific pictures from the existence of the server.",
+  "owner_ids": ["your owner is"],
+  "admins": ["your admins id"]
+}

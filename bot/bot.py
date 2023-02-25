@@ -22,6 +22,7 @@ prefix = config['prefix']
 description = config['description']
 
 # Call create_table to create the users table
+
 database.create_table()
 
 # Setup Handler for logs

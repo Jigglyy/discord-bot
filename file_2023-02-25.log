@@ -1,0 +1,372 @@
+INFO || 25-02-2023 00:33:38 || bot>bot.py || {'token': 'your-bot-token-here', 'prefix': '!', 'description': 'A Python Discord bot', 'owner_ids': [1234567890], 'admins': [9876543210]}
+INFO || 25-02-2023 00:46:39 || bot>bot.py || {'token': 'your-bot-token-here', 'prefix': '!', 'description': 'A Python Discord bot', 'owner_ids': [1234567890], 'admins': [9876543210]}
+INFO || 25-02-2023 00:47:53 || bot>bot.py || {'token': 'your-bot-token-here', 'prefix': '!', 'description': 'A Python Discord bot', 'owner_ids': [1234567890], 'admins': [9876543210]}
+INFO || 25-02-2023 00:47:53 || bot>bot.py || <sqlite3.Connection object at 0x0000026F423C5120>
+INFO || 25-02-2023 00:49:05 || bot>bot.py || {'token': 'your-bot-token-here', 'prefix': '!', 'description': 'A Python Discord bot', 'owner_ids': [1234567890], 'admins': [9876543210]}
+INFO || 25-02-2023 00:50:14 || bot>bot.py || {'token': 'your-bot-token-here', 'prefix': '!', 'description': 'A Python Discord bot', 'owner_ids': [1234567890], 'admins': [9876543210]}
+INFO || 25-02-2023 00:50:49 || bot>bot.py || {'token': 'your-bot-token-here', 'prefix': '!', 'description': 'A Python Discord bot', 'owner_ids': [1234567890], 'admins': [9876543210]}
+INFO || 25-02-2023 01:12:37 || bot>bot.py || $
+INFO || 25-02-2023 01:13:06 || bot>bot.py || Njg4NzU1NDgzMjYzMTA3MTIy.Gi1FrH.BU6eLPFBd-JI-VNRtcPj1FRMxZ8fv6T5oThJwY and $
+INFO || 25-02-2023 01:15:31 || bot>bot.py || Njg4NzU1NDgzMjYzMTA3MTIy.Gi1FrH.BU6eLPFBd-JI-VNRtcPj1FRMxZ8fv6T5oThJwY and $
+INFO || 25-02-2023 01:17:41 || bot>bot.py || Njg4NzU1NDgzMjYzMTA3MTIy.Gi1FrH.BU6eLPFBd-JI-VNRtcPj1FRMxZ8fv6T5oThJwY and $
+INFO || 25-02-2023 01:21:12 || bot>bot.py || Njg4NzU1NDgzMjYzMTA3MTIy.Gi1FrH.BU6eLPFBd-JI-VNRtcPj1FRMxZ8fv6T5oThJwY and $
+INFO || 25-02-2023 01:21:30 || bot>bot.py || Njg4NzU1NDgzMjYzMTA3MTIy.Gi1FrH.BU6eLPFBd-JI-VNRtcPj1FRMxZ8fv6T5oThJwY and $
+INFO || 25-02-2023 01:22:33 || bot>bot.py || Njg4NzU1NDgzMjYzMTA3MTIy.Gi1FrH.BU6eLPFBd-JI-VNRtcPj1FRMxZ8fv6T5oThJwY and $
+INFO || 25-02-2023 01:22:47 || bot>bot.py || Njg4NzU1NDgzMjYzMTA3MTIy.Gi1FrH.BU6eLPFBd-JI-VNRtcPj1FRMxZ8fv6T5oThJwY and $
+INFO || 25-02-2023 01:26:32 || bot>bot.py || Njg4NzU1NDgzMjYzMTA3MTIy.Gi1FrH.BU6eLPFBd-JI-VNRtcPj1FRMxZ8fv6T5oThJwY and $
+INFO || 25-02-2023 01:29:32 || bot>bot.py || Njg4NzU1NDgzMjYzMTA3MTIy.Gi1FrH.BU6eLPFBd-JI-VNRtcPj1FRMxZ8fv6T5oThJwY and $
+INFO || 25-02-2023 01:30:20 || bot>bot.py || Njg4NzU1NDgzMjYzMTA3MTIy.Gi1FrH.BU6eLPFBd-JI-VNRtcPj1FRMxZ8fv6T5oThJwY and $
+INFO || 25-02-2023 01:33:52 || bot>bot.py || Njg4NzU1NDgzMjYzMTA3MTIy.Gi1FrH.BU6eLPFBd-JI-VNRtcPj1FRMxZ8fv6T5oThJwY and $
+INFO || 25-02-2023 01:34:16 || bot>bot.py || Njg4NzU1NDgzMjYzMTA3MTIy.Gi1FrH.BU6eLPFBd-JI-VNRtcPj1FRMxZ8fv6T5oThJwY and $
+INFO || 25-02-2023 01:42:47 || bot>bot.py || Njg4NzU1NDgzMjYzMTA3MTIy.Gi1FrH.BU6eLPFBd-JI-VNRtcPj1FRMxZ8fv6T5oThJwY and $
+INFO || 25-02-2023 01:43:50 || bot>bot.py || Njg4NzU1NDgzMjYzMTA3MTIy.Gi1FrH.BU6eLPFBd-JI-VNRtcPj1FRMxZ8fv6T5oThJwY and $
+INFO || 25-02-2023 01:51:20 || bot>bot.py || Njg4NzU1NDgzMjYzMTA3MTIy.Gi1FrH.BU6eLPFBd-JI-VNRtcPj1FRMxZ8fv6T5oThJwY and $
+INFO || 25-02-2023 01:51:35 || bot>bot.py || Njg4NzU1NDgzMjYzMTA3MTIy.Gi1FrH.BU6eLPFBd-JI-VNRtcPj1FRMxZ8fv6T5oThJwY and $
+INFO || 25-02-2023 01:51:55 || bot>bot.py || Njg4NzU1NDgzMjYzMTA3MTIy.Gi1FrH.BU6eLPFBd-JI-VNRtcPj1FRMxZ8fv6T5oThJwY and $
+INFO || 25-02-2023 01:52:25 || bot>bot.py || Njg4NzU1NDgzMjYzMTA3MTIy.Gi1FrH.BU6eLPFBd-JI-VNRtcPj1FRMxZ8fv6T5oThJwY and $
+Level 20 || 25-02-2023 01:52:25 || client>client.py || logging in using static token
+Level 20 || 25-02-2023 01:52:26 || gateway>gateway.py || Shard ID None has connected to Gateway (Session ID: ee4cfcf117b64530028c9897c7057d1c).
+INFO || 25-02-2023 01:55:35 || bot>bot.py || Njg4NzU1NDgzMjYzMTA3MTIy.Gi1FrH.BU6eLPFBd-JI-VNRtcPj1FRMxZ8fv6T5oThJwY and $
+INFO || 25-02-2023 01:55:36 || bot>bot.py || Njg4NzU1NDgzMjYzMTA3MTIy.Gi1FrH.BU6eLPFBd-JI-VNRtcPj1FRMxZ8fv6T5oThJwY and $
+INFO || 25-02-2023 01:56:07 || bot>bot.py || Njg4NzU1NDgzMjYzMTA3MTIy.Gi1FrH.BU6eLPFBd-JI-VNRtcPj1FRMxZ8fv6T5oThJwY and $
+Level 20 || 25-02-2023 01:56:07 || client>client.py || logging in using static token
+Level 20 || 25-02-2023 01:56:08 || gateway>gateway.py || Shard ID None has connected to Gateway (Session ID: 8edc1906ae311b3e04cf99d2ce5b8cc8).
+INFO || 25-02-2023 01:56:21 || bot>bot.py || Njg4NzU1NDgzMjYzMTA3MTIy.Gi1FrH.BU6eLPFBd-JI-VNRtcPj1FRMxZ8fv6T5oThJwY and $
+INFO || 25-02-2023 01:56:26 || bot>bot.py || Njg4NzU1NDgzMjYzMTA3MTIy.Gi1FrH.BU6eLPFBd-JI-VNRtcPj1FRMxZ8fv6T5oThJwY and $
+Level 20 || 25-02-2023 01:56:26 || client>client.py || logging in using static token
+Level 10 || 25-02-2023 01:56:26 || http>http.py || GET https://discord.com/api/v10/users/@me with None has returned 200
+Level 10 || 25-02-2023 01:56:26 || http>http.py || GET /users/@me has found its initial rate limit bucket hash (f7ead6a7674e5a323d93786263b66cb1).
+Level 10 || 25-02-2023 01:56:26 || http>http.py || GET https://discord.com/api/v10/users/@me has received {'id': '688755483263107122', 'username': 'Bottimus Maximus', 'display_name': None, 'avatar': 'cda3ce4067ba75102245765a5d874c99', 'avatar_decoration': None, 'discriminator': '5854', 'public_flags': 0, 'flags': 0, 'bot': True, 'banner': None, 'banner_color': None, 'accent_color': None, 'bio': '', 'locale': 'en-US', 'mfa_enabled': True, 'premium_type': 0, 'email': None, 'verified': True}
+Level 10 || 25-02-2023 01:56:26 || http>http.py || GET https://discord.com/api/v10/oauth2/applications/@me with None has returned 200
+Level 10 || 25-02-2023 01:56:26 || http>http.py || GET /oauth2/applications/@me has found its initial rate limit bucket hash (f7ead6a7674e5a323d93786263b66cb1).
+Level 10 || 25-02-2023 01:56:26 || http>http.py || GET https://discord.com/api/v10/oauth2/applications/@me has received {'id': '688755483263107122', 'name': 'Bottimus Maximus', 'icon': None, 'description': '', 'summary': '', 'type': None, 'hook': True, 'bot_public': True, 'bot_require_code_grant': False, 'verify_key': 'ddeb157f65a85169caf935e8ebc63a5e7156bb17efcc1b0530289a3c86156d9f', 'owner': {'id': '72352136402317312', 'username': 'Jiggly', 'display_name': None, 'avatar': '124a3bad53ba3d2960fd62d456fb092e', 'avatar_decoration': None, 'discriminator': '6161', 'public_flags': 128, 'flags': 128}, 'flags': 0, 'team': None}
+Level 10 || 25-02-2023 01:56:26 || gateway>gateway.py || Created websocket connected to wss://gateway.discord.gg/
+Level 10 || 25-02-2023 01:56:26 || gateway>gateway.py || For Shard ID None: WebSocket Event: {'t': None, 's': None, 'op': 10, 'd': {'heartbeat_interval': 41250, '_trace': ['["gateway-prd-us-east1-d-wmg5",{"micros":0.0}]']}}
+Level 10 || 25-02-2023 01:56:26 || gateway>gateway.py || Shard ID None has sent the IDENTIFY payload.
+Level 10 || 25-02-2023 01:56:26 || gateway>gateway.py || For Shard ID None: WebSocket Event: {'t': None, 's': None, 'op': 11, 'd': None}
+Level 10 || 25-02-2023 01:56:26 || gateway>gateway.py || For Shard ID None: WebSocket Event: {'t': 'READY', 's': 1, 'op': 0, 'd': {'v': 10, 'user_settings': {}, 'user': {'verified': True, 'username': 'Bottimus Maximus', 'mfa_enabled': True, 'id': '688755483263107122', 'flags': 0, 'email': None, 'display_name': None, 'discriminator': '5854', 'bot': True, 'avatar': 'cda3ce4067ba75102245765a5d874c99'}, 'session_type': 'normal', 'session_id': '3990e4755aacb04638a44711cb89d9ca', 'resume_gateway_url': 'wss://gateway-us-east1-d.discord.gg', 'relationships': [], 'private_channels': [], 'presences': [], 'guilds': [{'unavailable': True, 'id': '72352931264864256'}], 'guild_join_requests': [], 'geo_ordered_rtc_regions': ['bucharest', 'milan', 'frankfurt', 'russia', 'st-pete'], 'application': {'id': '688755483263107122', 'flags': 0}, '_trace': ['["gateway-prd-us-east1-d-wmg5",{"micros":58593,"calls":["id_created",{"micros":1757,"calls":[]},"session_lookup_time",{"micros":4023,"calls":[]},"session_lookup_finished",{"micros":18,"calls":[]},"discord-sessions-blue-prd-2-288",{"micros":52208,"calls":["start_session",{"micros":49661,"calls":["discord-api-7775864cc-stmtn",{"micros":42206,"calls":["get_user",{"micros":10687},"get_guilds",{"micros":4227},"send_scheduled_deletion_message",{"micros":11},"guild_join_requests",{"micros":2},"authorized_ip_coro",{"micros":10}]}]},"starting_guild_connect",{"micros":64,"calls":[]},"presence_started",{"micros":341,"calls":[]},"guilds_started",{"micros":83,"calls":[]},"guilds_connect",{"micros":2,"calls":[]},"presence_connect",{"micros":2016,"calls":[]},"connect_finished",{"micros":2020,"calls":[]},"build_ready",{"micros":17,"calls":[]},"clean_ready",{"micros":1,"calls":[]},"optimize_ready",{"micros":0,"calls":[]},"split_ready",{"micros":20,"calls":[]}]}]}]']}}
+Level 10 || 25-02-2023 01:56:26 || client>client.py || Dispatching event socket_event_type
+Level 20 || 25-02-2023 01:56:26 || gateway>gateway.py || Shard ID None has connected to Gateway (Session ID: 3990e4755aacb04638a44711cb89d9ca).
+Level 10 || 25-02-2023 01:56:26 || client>client.py || Dispatching event connect
+Level 10 || 25-02-2023 01:56:28 || client>client.py || Dispatching event ready
+Level 10 || 25-02-2023 01:57:08 || gateway>gateway.py || Keeping shard ID None websocket alive with sequence 1.
+Level 10 || 25-02-2023 01:57:08 || gateway>gateway.py || For Shard ID None: WebSocket Event: {'t': None, 's': None, 'op': 11, 'd': None}
+INFO || 25-02-2023 02:02:38 || bot>bot.py || Njg4NzU1NDgzMjYzMTA3MTIy.Gi1FrH.BU6eLPFBd-JI-VNRtcPj1FRMxZ8fv6T5oThJwY and $
+Level 20 || 25-02-2023 02:02:38 || client>client.py || logging in using static token
+Level 20 || 25-02-2023 02:02:38 || gateway>gateway.py || Shard ID None has connected to Gateway (Session ID: 7c607a8ef80d18cfa6fd0b0139cd88ec).
+INFO || 25-02-2023 02:04:38 || bot>bot.py || Njg4NzU1NDgzMjYzMTA3MTIy.Gi1FrH.BU6eLPFBd-JI-VNRtcPj1FRMxZ8fv6T5oThJwY and $
+Level 20 || 25-02-2023 02:04:38 || client>client.py || logging in using static token
+Level 20 || 25-02-2023 02:04:39 || gateway>gateway.py || Shard ID None has connected to Gateway (Session ID: 505e94687376f6f0a8c048d0a5cde733).
+INFO || 25-02-2023 02:04:50 || bot>bot.py || Njg4NzU1NDgzMjYzMTA3MTIy.Gi1FrH.BU6eLPFBd-JI-VNRtcPj1FRMxZ8fv6T5oThJwY and $
+INFO || 25-02-2023 02:04:57 || bot>bot.py || Njg4NzU1NDgzMjYzMTA3MTIy.Gi1FrH.BU6eLPFBd-JI-VNRtcPj1FRMxZ8fv6T5oThJwY and $
+Level 20 || 25-02-2023 02:04:57 || client>client.py || logging in using static token
+Level 20 || 25-02-2023 02:04:58 || gateway>gateway.py || Shard ID None has connected to Gateway (Session ID: 3437980cf7b5ab8323c2177791b8cb3b).
+INFO || 25-02-2023 02:06:27 || bot>bot.py || Njg4NzU1NDgzMjYzMTA3MTIy.Gi1FrH.BU6eLPFBd-JI-VNRtcPj1FRMxZ8fv6T5oThJwY and $
+INFO || 25-02-2023 02:06:41 || bot>bot.py || Njg4NzU1NDgzMjYzMTA3MTIy.Gi1FrH.BU6eLPFBd-JI-VNRtcPj1FRMxZ8fv6T5oThJwY and $
+Level 20 || 25-02-2023 02:06:41 || client>client.py || logging in using static token
+Level 20 || 25-02-2023 02:06:42 || gateway>gateway.py || Shard ID None has connected to Gateway (Session ID: a7211ef8f521613d580a5d4baa081567).
+INFO || 25-02-2023 02:11:30 || bot>bot.py || Njg4NzU1NDgzMjYzMTA3MTIy.Gi1FrH.BU6eLPFBd-JI-VNRtcPj1FRMxZ8fv6T5oThJwY and $
+Level 20 || 25-02-2023 02:11:30 || client>client.py || logging in using static token
+Level 20 || 25-02-2023 02:11:31 || gateway>gateway.py || Shard ID None has connected to Gateway (Session ID: d278599cf0c68e560dca407940d4faf0).
+Level 20 || 25-02-2023 02:14:10 || client>client.py || logging in using static token
+Level 20 || 25-02-2023 02:15:03 || gateway>gateway.py || Shard ID None has connected to Gateway (Session ID: 41da38d2a2a69dc8ff78b1d3e37d654e).
+Level 20 || 25-02-2023 02:15:36 || client>client.py || logging in using static token
+Level 20 || 25-02-2023 02:15:37 || gateway>gateway.py || Shard ID None has connected to Gateway (Session ID: 61e2d55dddb7500a1f87839048034641).
+Level 20 || 25-02-2023 02:16:09 || client>client.py || logging in using static token
+Level 20 || 25-02-2023 02:16:10 || gateway>gateway.py || Shard ID None has connected to Gateway (Session ID: 0d6725b83a343a8bfe233a7d8730ec7b).
+Level 20 || 25-02-2023 02:16:58 || client>client.py || logging in using static token
+Level 20 || 25-02-2023 02:16:58 || gateway>gateway.py || Shard ID None has connected to Gateway (Session ID: 1621e2341054ab20cb343f96821010a8).
+INFO || 25-02-2023 02:17:11 || bot>bot.py || $
+Level 20 || 25-02-2023 02:18:41 || client>client.py || logging in using static token
+Level 20 || 25-02-2023 02:18:42 || gateway>gateway.py || Shard ID None has connected to Gateway (Session ID: 3d105a70685197a44a1653f46e4a8b47).
+INFO || 25-02-2023 02:18:46 || bot>bot.py || ASDASDASDASDASD
+Level 20 || 25-02-2023 02:20:00 || client>client.py || logging in using static token
+Level 20 || 25-02-2023 02:20:00 || gateway>gateway.py || Shard ID None has connected to Gateway (Session ID: dfa1483fe74dbf04268563d9e8f3a565).
+Level 20 || 25-02-2023 02:21:33 || client>client.py || logging in using static token
+Level 20 || 25-02-2023 02:21:34 || gateway>gateway.py || Shard ID None has connected to Gateway (Session ID: 64e58a4b2d99f75b34601bde88ec3cc9).
+Level 20 || 25-02-2023 02:22:01 || client>client.py || logging in using static token
+Level 20 || 25-02-2023 02:22:02 || gateway>gateway.py || Shard ID None has connected to Gateway (Session ID: 4bb4d1b17c90501fe19a27effaf8c34d).
+Level 20 || 25-02-2023 02:22:27 || client>client.py || logging in using static token
+Level 20 || 25-02-2023 02:22:28 || gateway>gateway.py || Shard ID None has connected to Gateway (Session ID: c9d3954277d32a1a8752a6b2bc7925c1).
+Level 20 || 25-02-2023 02:22:47 || client>client.py || logging in using static token
+Level 20 || 25-02-2023 02:22:48 || gateway>gateway.py || Shard ID None has connected to Gateway (Session ID: 23c10dfe53e08476c92fca0459c21ca6).
+Level 20 || 25-02-2023 02:27:16 || client>client.py || logging in using static token
+Level 20 || 25-02-2023 02:27:17 || gateway>gateway.py || Shard ID None has connected to Gateway (Session ID: cf116756eba949a087624b7d536db244).
+Level 20 || 25-02-2023 02:29:03 || client>client.py || logging in using static token
+Level 20 || 25-02-2023 02:29:04 || gateway>gateway.py || Shard ID None has connected to Gateway (Session ID: 63270ff0d7639aaf425b5aa7a935a769).
+Level 20 || 25-02-2023 02:30:50 || client>client.py || logging in using static token
+Level 20 || 25-02-2023 02:30:51 || gateway>gateway.py || Shard ID None has connected to Gateway (Session ID: 49a4ceaa0a2816da08c75f44d67288c2).
+Level 20 || 25-02-2023 02:32:26 || client>client.py || logging in using static token
+Level 20 || 25-02-2023 02:32:27 || gateway>gateway.py || Shard ID None has connected to Gateway (Session ID: b10b6ba8056827485c4bf6f492087568).
+Level 20 || 25-02-2023 02:37:38 || client>client.py || logging in using static token
+Level 20 || 25-02-2023 02:37:39 || gateway>gateway.py || Shard ID None has connected to Gateway (Session ID: 8be60c54fd0ca9a9066e5978349d7c1e).
+Level 20 || 25-02-2023 02:37:56 || client>client.py || logging in using static token
+Level 20 || 25-02-2023 02:37:56 || gateway>gateway.py || Shard ID None has connected to Gateway (Session ID: 89bcb3d931fe09eaf4312b4a9cd17273).
+INFO || 25-02-2023 02:37:58 || bot>bot.py || We have logged in as Bottimus Maximus#5854
+Level 20 || 25-02-2023 02:46:24 || client>client.py || logging in using static token
+Level 20 || 25-02-2023 02:46:24 || gateway>gateway.py || Shard ID None has connected to Gateway (Session ID: c3907e221367f7e8c312187e85ea294a).
+INFO || 25-02-2023 02:46:26 || bot>bot.py || We have logged in as Bottimus Maximus#5854
+Level 20 || 25-02-2023 02:50:45 || client>client.py || logging in using static token
+Level 20 || 25-02-2023 02:50:46 || gateway>gateway.py || Shard ID None has connected to Gateway (Session ID: ffc3a0941a23f4e936254b78e25b1997).
+INFO || 25-02-2023 02:50:48 || bot>bot.py || We have logged in as Bottimus Maximus#5854
+Level 30 || 25-02-2023 02:51:44 || bot>bot.py || Privileged message content intent is missing, commands may not work as expected.
+Level 20 || 25-02-2023 02:51:44 || client>client.py || logging in using static token
+Level 20 || 25-02-2023 02:51:45 || gateway>gateway.py || Shard ID None has connected to Gateway (Session ID: de7e9148af00556a7881a54833576265).
+Level 30 || 25-02-2023 02:52:18 || bot>bot.py || Privileged message content intent is missing, commands may not work as expected.
+Level 20 || 25-02-2023 02:52:18 || client>client.py || logging in using static token
+Level 20 || 25-02-2023 02:52:19 || gateway>gateway.py || Shard ID None has connected to Gateway (Session ID: 9a642185698f785abd9c8019df26e879).
+INFO || 25-02-2023 02:52:21 || bot>bot.py || We have logged in as Bottimus Maximus#5854
+Level 30 || 25-02-2023 02:56:11 || bot>bot.py || Privileged message content intent is missing, commands may not work as expected.
+Level 20 || 25-02-2023 02:56:11 || client>client.py || logging in using static token
+Level 20 || 25-02-2023 02:56:12 || gateway>gateway.py || Shard ID None has connected to Gateway (Session ID: 49ac6b49040c17c2d862eb24958fd948).
+Level 40 || 25-02-2023 02:56:14 || __init__>__init__.py || Ignoring exception in on_ready
+Traceback (most recent call last):
+
+  File "c:\Users\Jiggly\Documents\discord-bot\bot\bot.py", line 62, in <module>
+    bot.run(token, log_handler=handler)
+    │   │   │                  └ <DiscordHandler (DEBUG)>
+    │   │   └ 'Njg4NzU1NDgzMjYzMTA3MTIy.Gi1FrH.BU6eLPFBd-JI-VNRtcPj1FRMxZ8fv6T5oThJwY'
+    │   └ <function Client.run at 0x00000298F3A413A0>
+    └ <discord.ext.commands.bot.Bot object at 0x00000298F06DEF50>
+
+  File "C:\Users\Jiggly\miniconda3\envs\discord\Lib\site-packages\discord\client.py", line 828, in run
+    asyncio.run(runner())
+    │       │   └ <function Client.run.<locals>.runner at 0x00000298F3C14220>
+    │       └ <function run at 0x00000298F235A3E0>
+    └ <module 'asyncio' from 'C:\\Users\\Jiggly\\miniconda3\\envs\\discord\\Lib\\asyncio\\__init__.py'>
+  File "C:\Users\Jiggly\miniconda3\envs\discord\Lib\asyncio\runners.py", line 190, in run
+    return runner.run(main)
+           │      │   └ <coroutine object Client.run.<locals>.runner at 0x00000298F3BF8F40>
+           │      └ <function Runner.run at 0x00000298F23774C0>
+           └ <asyncio.runners.Runner object at 0x00000298F3C1FB90>
+  File "C:\Users\Jiggly\miniconda3\envs\discord\Lib\asyncio\runners.py", line 118, in run
+    return self._loop.run_until_complete(task)
+           │    │     │                  └ <Task pending name='Task-1' coro=<Client.run.<locals>.runner() running at C:\Users\Jiggly\miniconda3\envs\discord\Lib\site-pa...
+           │    │     └ <function BaseEventLoop.run_until_complete at 0x00000298F2375080>
+           │    └ <ProactorEventLoop running=True closed=False debug=False>
+           └ <asyncio.runners.Runner object at 0x00000298F3C1FB90>
+  File "C:\Users\Jiggly\miniconda3\envs\discord\Lib\asyncio\base_events.py", line 637, in run_until_complete
+    self.run_forever()
+    │    └ <function ProactorEventLoop.run_forever at 0x00000298F244C2C0>
+    └ <ProactorEventLoop running=True closed=False debug=False>
+  File "C:\Users\Jiggly\miniconda3\envs\discord\Lib\asyncio\windows_events.py", line 321, in run_forever
+    super().run_forever()
+  File "C:\Users\Jiggly\miniconda3\envs\discord\Lib\asyncio\base_events.py", line 604, in run_forever
+    self._run_once()
+    │    └ <function BaseEventLoop._run_once at 0x00000298F2376DE0>
+    └ <ProactorEventLoop running=True closed=False debug=False>
+  File "C:\Users\Jiggly\miniconda3\envs\discord\Lib\asyncio\base_events.py", line 1909, in _run_once
+    handle._run()
+    │      └ <function Handle._run at 0x00000298F22FFCE0>
+    └ <Handle <TaskStepMethWrapper object at 0x00000298F3C50C10>()>
+  File "C:\Users\Jiggly\miniconda3\envs\discord\Lib\asyncio\events.py", line 80, in _run
+    self._context.run(self._callback, *self._args)
+    │    │            │    │           │    └ <member '_args' of 'Handle' objects>
+    │    │            │    │           └ <Handle <TaskStepMethWrapper object at 0x00000298F3C50C10>()>
+    │    │            │    └ <member '_callback' of 'Handle' objects>
+    │    │            └ <Handle <TaskStepMethWrapper object at 0x00000298F3C50C10>()>
+    │    └ <member '_context' of 'Handle' objects>
+    └ <Handle <TaskStepMethWrapper object at 0x00000298F3C50C10>()>
+> File "C:\Users\Jiggly\miniconda3\envs\discord\Lib\site-packages\discord\client.py", line 409, in _run_event
+    await coro(*args, **kwargs)
+          │     │       └ {}
+          │     └ ()
+          └ <function on_ready at 0x00000298F3C14180>
+
+TypeError: on_ready() missing 1 required positional argument: 'ctx'
+Level 30 || 25-02-2023 02:56:41 || bot>bot.py || Privileged message content intent is missing, commands may not work as expected.
+Level 20 || 25-02-2023 02:56:41 || client>client.py || logging in using static token
+Level 20 || 25-02-2023 02:56:42 || gateway>gateway.py || Shard ID None has connected to Gateway (Session ID: f9dcb9bbefe85be75b8b279dd014cdef).
+Level 40 || 25-02-2023 02:56:44 || __init__>__init__.py || Ignoring exception in on_ready
+Traceback (most recent call last):
+
+  File "c:\Users\Jiggly\Documents\discord-bot\bot\bot.py", line 62, in <module>
+    bot.run(token, log_handler=handler)
+    │   │   │                  └ <DiscordHandler (DEBUG)>
+    │   │   └ 'Njg4NzU1NDgzMjYzMTA3MTIy.Gi1FrH.BU6eLPFBd-JI-VNRtcPj1FRMxZ8fv6T5oThJwY'
+    │   └ <function Client.run at 0x00000223E25213A0>
+    └ <discord.ext.commands.bot.Bot object at 0x00000223DEFBAAD0>
+
+  File "C:\Users\Jiggly\miniconda3\envs\discord\Lib\site-packages\discord\client.py", line 828, in run
+    asyncio.run(runner())
+    │       │   └ <function Client.run.<locals>.runner at 0x00000223E26F4220>
+    │       └ <function run at 0x00000223E0E7A3E0>
+    └ <module 'asyncio' from 'C:\\Users\\Jiggly\\miniconda3\\envs\\discord\\Lib\\asyncio\\__init__.py'>
+  File "C:\Users\Jiggly\miniconda3\envs\discord\Lib\asyncio\runners.py", line 190, in run
+    return runner.run(main)
+           │      │   └ <coroutine object Client.run.<locals>.runner at 0x00000223E26D8F40>
+           │      └ <function Runner.run at 0x00000223E0E974C0>
+           └ <asyncio.runners.Runner object at 0x00000223E26FFB90>
+  File "C:\Users\Jiggly\miniconda3\envs\discord\Lib\asyncio\runners.py", line 118, in run
+    return self._loop.run_until_complete(task)
+           │    │     │                  └ <Task pending name='Task-1' coro=<Client.run.<locals>.runner() running at C:\Users\Jiggly\miniconda3\envs\discord\Lib\site-pa...
+           │    │     └ <function BaseEventLoop.run_until_complete at 0x00000223E0E95080>
+           │    └ <ProactorEventLoop running=True closed=False debug=False>
+           └ <asyncio.runners.Runner object at 0x00000223E26FFB90>
+  File "C:\Users\Jiggly\miniconda3\envs\discord\Lib\asyncio\base_events.py", line 637, in run_until_complete
+    self.run_forever()
+    │    └ <function ProactorEventLoop.run_forever at 0x00000223E0F6C2C0>
+    └ <ProactorEventLoop running=True closed=False debug=False>
+  File "C:\Users\Jiggly\miniconda3\envs\discord\Lib\asyncio\windows_events.py", line 321, in run_forever
+    super().run_forever()
+  File "C:\Users\Jiggly\miniconda3\envs\discord\Lib\asyncio\base_events.py", line 604, in run_forever
+    self._run_once()
+    │    └ <function BaseEventLoop._run_once at 0x00000223E0E96DE0>
+    └ <ProactorEventLoop running=True closed=False debug=False>
+  File "C:\Users\Jiggly\miniconda3\envs\discord\Lib\asyncio\base_events.py", line 1909, in _run_once
+    handle._run()
+    │      └ <function Handle._run at 0x00000223E0E2FCE0>
+    └ <Handle <TaskStepMethWrapper object at 0x00000223E2734B50>()>
+  File "C:\Users\Jiggly\miniconda3\envs\discord\Lib\asyncio\events.py", line 80, in _run
+    self._context.run(self._callback, *self._args)
+    │    │            │    │           │    └ <member '_args' of 'Handle' objects>
+    │    │            │    │           └ <Handle <TaskStepMethWrapper object at 0x00000223E2734B50>()>
+    │    │            │    └ <member '_callback' of 'Handle' objects>
+    │    │            └ <Handle <TaskStepMethWrapper object at 0x00000223E2734B50>()>
+    │    └ <member '_context' of 'Handle' objects>
+    └ <Handle <TaskStepMethWrapper object at 0x00000223E2734B50>()>
+> File "C:\Users\Jiggly\miniconda3\envs\discord\Lib\site-packages\discord\client.py", line 409, in _run_event
+    await coro(*args, **kwargs)
+          │     │       └ {}
+          │     └ ()
+          └ <function on_ready at 0x00000223E26F4180>
+
+TypeError: on_ready() missing 1 required positional argument: 'ctx'
+Level 30 || 25-02-2023 02:57:50 || bot>bot.py || Privileged message content intent is missing, commands may not work as expected.
+Level 20 || 25-02-2023 02:57:50 || client>client.py || logging in using static token
+Level 20 || 25-02-2023 02:57:51 || gateway>gateway.py || Shard ID None has connected to Gateway (Session ID: 71f61c5fe22121b02d3dd99bc1c6afa9).
+Level 40 || 25-02-2023 02:57:53 || __init__>__init__.py || Ignoring exception in on_ready
+Traceback (most recent call last):
+
+  File "c:\Users\Jiggly\Documents\discord-bot\bot\bot.py", line 62, in <module>
+    bot.run(token, log_handler=handler)
+    │   │   │                  └ <DiscordHandler (DEBUG)>
+    │   │   └ 'Njg4NzU1NDgzMjYzMTA3MTIy.Gi1FrH.BU6eLPFBd-JI-VNRtcPj1FRMxZ8fv6T5oThJwY'
+    │   └ <function Client.run at 0x000001DFD04313A0>
+    └ <discord.ext.commands.bot.Bot object at 0x000001DFCF61DB50>
+
+  File "C:\Users\Jiggly\miniconda3\envs\discord\Lib\site-packages\discord\client.py", line 828, in run
+    asyncio.run(runner())
+    │       │   └ <function Client.run.<locals>.runner at 0x000001DFD0604220>
+    │       └ <function run at 0x000001DFCED4A3E0>
+    └ <module 'asyncio' from 'C:\\Users\\Jiggly\\miniconda3\\envs\\discord\\Lib\\asyncio\\__init__.py'>
+  File "C:\Users\Jiggly\miniconda3\envs\discord\Lib\asyncio\runners.py", line 190, in run
+    return runner.run(main)
+           │      │   └ <coroutine object Client.run.<locals>.runner at 0x000001DFD05E8F40>
+           │      └ <function Runner.run at 0x000001DFCED674C0>
+           └ <asyncio.runners.Runner object at 0x000001DFCF998F50>
+  File "C:\Users\Jiggly\miniconda3\envs\discord\Lib\asyncio\runners.py", line 118, in run
+    return self._loop.run_until_complete(task)
+           │    │     │                  └ <Task pending name='Task-1' coro=<Client.run.<locals>.runner() running at C:\Users\Jiggly\miniconda3\envs\discord\Lib\site-pa...
+           │    │     └ <function BaseEventLoop.run_until_complete at 0x000001DFCED65080>
+           │    └ <ProactorEventLoop running=True closed=False debug=False>
+           └ <asyncio.runners.Runner object at 0x000001DFCF998F50>
+  File "C:\Users\Jiggly\miniconda3\envs\discord\Lib\asyncio\base_events.py", line 637, in run_until_complete
+    self.run_forever()
+    │    └ <function ProactorEventLoop.run_forever at 0x000001DFCEE3C2C0>
+    └ <ProactorEventLoop running=True closed=False debug=False>
+  File "C:\Users\Jiggly\miniconda3\envs\discord\Lib\asyncio\windows_events.py", line 321, in run_forever
+    super().run_forever()
+  File "C:\Users\Jiggly\miniconda3\envs\discord\Lib\asyncio\base_events.py", line 604, in run_forever
+    self._run_once()
+    │    └ <function BaseEventLoop._run_once at 0x000001DFCED66DE0>
+    └ <ProactorEventLoop running=True closed=False debug=False>
+  File "C:\Users\Jiggly\miniconda3\envs\discord\Lib\asyncio\base_events.py", line 1909, in _run_once
+    handle._run()
+    │      └ <function Handle._run at 0x000001DFCECEFCE0>
+    └ <Handle <TaskStepMethWrapper object at 0x000001DFD0640B50>()>
+  File "C:\Users\Jiggly\miniconda3\envs\discord\Lib\asyncio\events.py", line 80, in _run
+    self._context.run(self._callback, *self._args)
+    │    │            │    │           │    └ <member '_args' of 'Handle' objects>
+    │    │            │    │           └ <Handle <TaskStepMethWrapper object at 0x000001DFD0640B50>()>
+    │    │            │    └ <member '_callback' of 'Handle' objects>
+    │    │            └ <Handle <TaskStepMethWrapper object at 0x000001DFD0640B50>()>
+    │    └ <member '_context' of 'Handle' objects>
+    └ <Handle <TaskStepMethWrapper object at 0x000001DFD0640B50>()>
+> File "C:\Users\Jiggly\miniconda3\envs\discord\Lib\site-packages\discord\client.py", line 409, in _run_event
+    await coro(*args, **kwargs)
+          │     │       └ {}
+          │     └ ()
+          └ <function on_ready at 0x000001DFD0604180>
+
+TypeError: on_ready() missing 1 required positional argument: 'ctx'
+Level 30 || 25-02-2023 02:58:12 || bot>bot.py || Privileged message content intent is missing, commands may not work as expected.
+Level 20 || 25-02-2023 02:58:12 || client>client.py || logging in using static token
+Level 20 || 25-02-2023 02:58:13 || gateway>gateway.py || Shard ID None has connected to Gateway (Session ID: 4da2e8aa470d5a377ecdd8635fe48b11).
+Level 40 || 25-02-2023 02:58:15 || __init__>__init__.py || Ignoring exception in on_ready
+Traceback (most recent call last):
+
+  File "c:\Users\Jiggly\Documents\discord-bot\bot\bot.py", line 62, in <module>
+    bot.run(token, log_handler=handler)
+    │   │   │                  └ <DiscordHandler (DEBUG)>
+    │   │   └ 'Njg4NzU1NDgzMjYzMTA3MTIy.Gi1FrH.BU6eLPFBd-JI-VNRtcPj1FRMxZ8fv6T5oThJwY'
+    │   └ <function Client.run at 0x00000208605E13A0>
+    └ <discord.ext.commands.bot.Bot object at 0x000002085CF72390>
+
+  File "C:\Users\Jiggly\miniconda3\envs\discord\Lib\site-packages\discord\client.py", line 828, in run
+    asyncio.run(runner())
+    │       │   └ <function Client.run.<locals>.runner at 0x00000208607B40E0>
+    │       └ <function run at 0x000002085EEFA3E0>
+    └ <module 'asyncio' from 'C:\\Users\\Jiggly\\miniconda3\\envs\\discord\\Lib\\asyncio\\__init__.py'>
+  File "C:\Users\Jiggly\miniconda3\envs\discord\Lib\asyncio\runners.py", line 190, in run
+    return runner.run(main)
+           │      │   └ <coroutine object Client.run.<locals>.runner at 0x00000208607994E0>
+           │      └ <function Runner.run at 0x000002085EF174C0>
+           └ <asyncio.runners.Runner object at 0x00000208606D9A90>
+  File "C:\Users\Jiggly\miniconda3\envs\discord\Lib\asyncio\runners.py", line 118, in run
+    return self._loop.run_until_complete(task)
+           │    │     │                  └ <Task pending name='Task-1' coro=<Client.run.<locals>.runner() running at C:\Users\Jiggly\miniconda3\envs\discord\Lib\site-pa...
+           │    │     └ <function BaseEventLoop.run_until_complete at 0x000002085EF15080>
+           │    └ <ProactorEventLoop running=True closed=False debug=False>
+           └ <asyncio.runners.Runner object at 0x00000208606D9A90>
+  File "C:\Users\Jiggly\miniconda3\envs\discord\Lib\asyncio\base_events.py", line 637, in run_until_complete
+    self.run_forever()
+    │    └ <function ProactorEventLoop.run_forever at 0x000002085EFEC2C0>
+    └ <ProactorEventLoop running=True closed=False debug=False>
+  File "C:\Users\Jiggly\miniconda3\envs\discord\Lib\asyncio\windows_events.py", line 321, in run_forever
+    super().run_forever()
+  File "C:\Users\Jiggly\miniconda3\envs\discord\Lib\asyncio\base_events.py", line 604, in run_forever
+    self._run_once()
+    │    └ <function BaseEventLoop._run_once at 0x000002085EF16DE0>
+    └ <ProactorEventLoop running=True closed=False debug=False>
+  File "C:\Users\Jiggly\miniconda3\envs\discord\Lib\asyncio\base_events.py", line 1909, in _run_once
+    handle._run()
+    │      └ <function Handle._run at 0x000002085EE9FCE0>
+    └ <Handle <TaskStepMethWrapper object at 0x00000208607F4B80>()>
+  File "C:\Users\Jiggly\miniconda3\envs\discord\Lib\asyncio\events.py", line 80, in _run
+    self._context.run(self._callback, *self._args)
+    │    │            │    │           │    └ <member '_args' of 'Handle' objects>
+    │    │            │    │           └ <Handle <TaskStepMethWrapper object at 0x00000208607F4B80>()>
+    │    │            │    └ <member '_callback' of 'Handle' objects>
+    │    │            └ <Handle <TaskStepMethWrapper object at 0x00000208607F4B80>()>
+    │    └ <member '_context' of 'Handle' objects>
+    └ <Handle <TaskStepMethWrapper object at 0x00000208607F4B80>()>
+> File "C:\Users\Jiggly\miniconda3\envs\discord\Lib\site-packages\discord\client.py", line 409, in _run_event
+    await coro(*args, **kwargs)
+          │     │       └ {}
+          │     └ ()
+          └ <function on_ready at 0x00000208607B4180>
+
+TypeError: on_ready() missing 1 required positional argument: 'ctx'
+Level 30 || 25-02-2023 02:59:06 || bot>bot.py || Privileged message content intent is missing, commands may not work as expected.
+Level 20 || 25-02-2023 02:59:06 || client>client.py || logging in using static token
+Level 20 || 25-02-2023 02:59:07 || gateway>gateway.py || Shard ID None has connected to Gateway (Session ID: 2d0dd095f4e8e6f0af80c5af3db9cd1e).
+INFO || 25-02-2023 02:59:09 || bot>bot.py || We have logged in as Bottimus Maximus#5854
+Level 30 || 25-02-2023 11:58:09 || bot>bot.py || Privileged message content intent is missing, commands may not work as expected.
+Level 20 || 25-02-2023 11:58:09 || client>client.py || logging in using static token
+Level 20 || 25-02-2023 11:58:10 || gateway>gateway.py || Shard ID None has connected to Gateway (Session ID: b85ca22c43e09c0db3228f52a25fae35).
+INFO || 25-02-2023 11:58:12 || bot>bot.py || We have logged in as Bottimus Maximus#5854
+Level 30 || 25-02-2023 11:59:22 || bot>bot.py || Privileged message content intent is missing, commands may not work as expected.
+Level 20 || 25-02-2023 11:59:22 || client>client.py || logging in using static token
+Level 30 || 25-02-2023 11:59:32 || bot>bot.py || Privileged message content intent is missing, commands may not work as expected.
+Level 20 || 25-02-2023 11:59:32 || client>client.py || logging in using static token
+Level 20 || 25-02-2023 11:59:33 || gateway>gateway.py || Shard ID None has connected to Gateway (Session ID: f2dceb38d41ccec1bd01b59cf8023384).
+INFO || 25-02-2023 11:59:35 || bot>bot.py || We have logged in as Bottimus Maximus#5854
+Level 20 || 25-02-2023 12:00:20 || client>client.py || logging in using static token
+Level 20 || 25-02-2023 12:01:31 || client>client.py || logging in using static token
+Level 20 || 25-02-2023 12:01:32 || gateway>gateway.py || Shard ID None has connected to Gateway (Session ID: f191aa8ed54ac44e9a7a74d6f990386f).
+INFO || 25-02-2023 12:01:34 || bot>bot.py || We have logged in as Bottimus Maximus#5854
+Level 20 || 25-02-2023 12:03:04 || client>client.py || logging in using static token
+Level 20 || 25-02-2023 12:03:05 || gateway>gateway.py || Shard ID None has connected to Gateway (Session ID: 279a9e59305e0cd9d3bf96810a08c9bf).
+INFO || 25-02-2023 12:03:07 || bot>bot.py || Heard Ping, sending Pong
+INFO || 25-02-2023 12:03:07 || bot>bot.py || We have logged in as Bottimus Maximus#5854

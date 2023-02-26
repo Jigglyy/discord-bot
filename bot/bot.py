@@ -34,7 +34,7 @@ class DiscordHandler(logging.Handler):
     def emit(self, record):
         logger.remove()
         today = datetime.date.today().strftime("%Y-%m-%d")
-        log_filename = f"file_{today}.log"
+        log_filename = f"bot_{today}.log"
         format = "<red>{level}</red> || <green>{time:DD-MM-YYYY HH:mm:ss}</green> || <level><yellow>{module}>{file}</yellow></level> || <blue>{message}</blue>"
         logger.add(logging.StreamHandler(sys.stderr), colorize=True, format=format)
         logger.add(log_filename,  level="DEBUG", rotation="10 MB", format=format)

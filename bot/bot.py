@@ -1,6 +1,5 @@
 import os
 import sys
-import json
 import logging
 
 sys.path.append(os.path.abspath(os.path.join(os.path.dirname(__file__), "..")))
@@ -75,10 +74,12 @@ async def on_message(msg):
 
             img_diff.save("diff.png")
             
-            if mismatch > 300_000:
+            if mismatch <= 350_000:
                 await msg.delete()
                 await channel.send(f"Your picture contains foul imagery, it has been deleted!")
-                
+            else:
+                logger.info("Image not matching, ignoring")
+
         except ValueError as e:
             logger.error(str(e))
         
@@ -95,6 +96,7 @@ async def on_message(msg):
 bot.add_command(ping)
 
 # Run Bot
+
 try:
     bot.run(token, log_handler=handler)
 except ConnectionClosed as e:
